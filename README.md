@@ -22,5 +22,25 @@ EXAMPLE 2B
 
 <img width="602" alt="Screen Shot 2024-12-31 at 5 03 28 PM" src="https://github.com/user-attachments/assets/dcd3ea35-d48f-422f-8b17-fa6c1867517d" />
 
+For the Username and Password you can create your custom information, just record it personally.
+
+
+EXAMPLE 2C
+
+<img width="645" alt="Screen Shot 2024-12-31 at 5 06 59 PM" src="https://github.com/user-attachments/assets/c3022958-0088-4fe9-96c5-071d292af6c5" />
+
+Select the “Networking” tab towards the top of the page and view EXAMPLE 2D inputs to match.
+
+
+EXAMPLE 2D
+
+<img width="526" alt="Screen Shot 2024-12-31 at 5 09 48 PM" src="https://github.com/user-attachments/assets/51274533-a112-491c-b4f9-bad96f5398bc" />
+
+Then select “Review and Create”, once it passes validation select “Create” at the bottom.
+
+
+NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
+
+EXAMPLE 2E
 
 
