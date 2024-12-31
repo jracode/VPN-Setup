@@ -13,4 +13,6 @@ Next we will set up a virtual machine on Azure.
 
 
 2. - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). See Example 2A looking at the Virtual Machine set up page.
+Example 2A
+<img width="720" alt="Screen Shot 2024-12-31 at 4 57 21 PM" src="https://github.com/user-attachments/assets/5013000d-a272-4dde-b6a8-1c202aff6dca" />
 
