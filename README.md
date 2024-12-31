@@ -16,3 +16,10 @@ Next we will set up a virtual machine on Azure.
 Example 2A
 <img width="720" alt="Screen Shot 2024-12-31 at 4 57 21 PM" src="https://github.com/user-attachments/assets/5013000d-a272-4dde-b6a8-1c202aff6dca" />
 
+Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+
+EXAMPLE 2B
+<img width="602" alt="Screen Shot 2024-12-31 at 5 03 28 PM" src="https://github.com/user-attachments/assets/dcd3ea35-d48f-422f-8b17-fa6c1867517d" />
+
+
+
