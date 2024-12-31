@@ -43,4 +43,18 @@ NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20
 
 EXAMPLE 2E
 
+<img width="642" alt="Screen Shot 2024-12-31 at 5 22 26 PM" src="https://github.com/user-attachments/assets/1b5bc44a-1f0a-4b12-b2ea-73285fd30bf0" />
+
+STEP 3 – Log Into the VM and Find IP Address
+
+Now that we have set up the Virtual Machine we will connecting to it using the application “Remote Desktop Connection” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.whatismyipaddress.com (EXAMPLE 3C).
+
+
+EXAMPLE 3A
+
+<img width="644" alt="Screen Shot 2024-12-31 at 5 27 26 PM" src="https://github.com/user-attachments/assets/695d25da-8888-4268-be4a-64e680ccc4e0" />
+
+EXAMPLE 3B
+
+<img width="647" alt="Screen Shot 2024-12-31 at 5 33 43 PM" src="https://github.com/user-attachments/assets/95e38dca-6a9f-4c93-8660-ea26f9f121cf" />
 
