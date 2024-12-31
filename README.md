@@ -19,6 +19,7 @@ Example 2A
 Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
 
 EXAMPLE 2B
+
 <img width="602" alt="Screen Shot 2024-12-31 at 5 03 28 PM" src="https://github.com/user-attachments/assets/dcd3ea35-d48f-422f-8b17-fa6c1867517d" />
 
 
