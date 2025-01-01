@@ -82,3 +82,16 @@ On the left hand side of the VPN you can select a country where you want your VP
 EXAMPLE 4C
 
 <img width="637" alt="Screen Shot 2024-12-31 at 7 02 31 PM" src="https://github.com/user-attachments/assets/f4e758e2-f01c-40b3-91c1-fb9a156097e8" />
+
+Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows yet another IP address using the VPN from Japan. This is quite amazing.
+
+
+EXAMPLE 4D
+
+<img width="640" alt="Screen Shot 2024-12-31 at 7 05 16 PM" src="https://github.com/user-attachments/assets/c367d15d-75bc-44df-a8db-16f7e79c42fc" />
+
+Looking at this exercise we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet. Home IP (USA): 137.103.51.136 Virtual Machin IP (France): 20.216.176.18 Virtual Machin IP VPN (Japan) 212.102.51.251
+
+
+If you no longer need the VM, ensure to remove it from the Asure account for unwanted charges.
+END OF TUTORIAL
