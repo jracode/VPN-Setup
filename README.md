@@ -58,3 +58,27 @@ EXAMPLE 3B
 
 <img width="647" alt="Screen Shot 2024-12-31 at 5 33 43 PM" src="https://github.com/user-attachments/assets/95e38dca-6a9f-4c93-8660-ea26f9f121cf" />
 
+When we look up the IP address for this VM through www.whatismyipaddress.com we see that this VM is showing the location for France (EXAMPLE 3C).
+
+
+EXAMPLE 3C
+
+<img width="637" alt="Screen Shot 2024-12-31 at 6 52 17 PM" src="https://github.com/user-attachments/assets/10b8924d-a229-4b52-b512-f6f8a7276b91" />
+
+STEP 4 – CONNECTING TO VPN (Free Version)
+
+Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website 
+
+
+Once you have logged into your Proton VPN account on the VM, you will select “Downloads” and choose to download the “Windows” version. Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app. See EXAMPLE 4B when this steps are completed.
+
+EXAMPLE 4B
+
+<img width="663" alt="Screen Shot 2024-12-31 at 7 00 57 PM" src="https://github.com/user-attachments/assets/736b941c-92bd-432e-b208-33a5c30f99dc" />
+
+On the left hand side of the VPN you can select a country where you want your VPN to be, the image below shows the VPN being connected to an IP in Japan. See EXAMPLE 4C
+
+
+EXAMPLE 4C
+
+<img width="637" alt="Screen Shot 2024-12-31 at 7 02 31 PM" src="https://github.com/user-attachments/assets/f4e758e2-f01c-40b3-91c1-fb9a156097e8" />
